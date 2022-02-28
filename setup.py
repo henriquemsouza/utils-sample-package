@@ -8,6 +8,6 @@ setup(
     author='Henrique Martins de Souza',
     author_email='henrique.m_s@hotmail.com',
     license='unlicense',
-    packages=['tils-sample'],
+    packages=['utils-sample'],
     zip_safe=False
 )
